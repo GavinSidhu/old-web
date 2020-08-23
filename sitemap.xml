@@ -4,10 +4,47 @@
   
   <url>
     <loc>http://example.org/categories/</loc>
+    <lastmod>2020-06-19T23:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/portfolio/hugo-portfolio-website/</loc>
+    <lastmod>2020-06-19T23:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/web-dev/</loc>
+    <lastmod>2020-06-19T23:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/first-blog/</loc>
+    <lastmod>2019-12-31T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/about/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/contact/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/portfolio/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
     <loc>http://example.org/</loc>
+    <lastmod>2019-10-26T15:26:15+00:00</lastmod>
   </url>
   
   <url>
